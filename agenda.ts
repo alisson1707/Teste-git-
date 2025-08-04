@@ -207,3 +207,5 @@ function abrirFormulario(contato: Contato) {
 function fecharFormulario(): void {
   formularioDeEdicao.style.display = 'none';
 }
+
+console.log('alteraçao');
